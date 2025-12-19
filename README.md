@@ -1,6 +1,6 @@
 # Word 转 PPT 自动化程序
 
-一个可以将 Word 文档自动转换为 PowerPoint 演示文稿的 Python 工具，支持图形界面和命令行两种模式。
+一个可以将 Word 转换为 PowerPoint 文稿的 Python 工具，支持图形界面和命令行两种模式。
 
 ## 功能特性
 
